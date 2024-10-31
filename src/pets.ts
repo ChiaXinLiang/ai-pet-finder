@@ -332,7 +332,7 @@ export const pets: Pet[] = [
     id: "308263",
     name: "Oven Mitt",
     age: 1,
-    type: "rabbit",
+    type: "cat",
     breed: "Lionhead",
     sex: "Male",
     color: "White, Brown",
